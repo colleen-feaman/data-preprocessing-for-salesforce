@@ -1,0 +1,256 @@
+﻿County Code,County,Market,APN
+TR,Travis,Austin,AUSTIN_
+WI,Williamson,Austin,AUSTIN_
+BE,Bell,TX Small County,TXSMALLCOUNTY_
+CY,Coryell,TX Small County,TXSMALLCOUNTY_
+LB,Lubbock,TX Small County,TXSMALLCOUNTY_
+DA,Dallas,Dallas,DAL_
+TA,Tarrant,Dallas,DAL_
+CO,Collin,Dallas,DAL_
+DN,Denton,Dallas,DAL_
+JS,Johnson,Dallas,DAL_
+KA,Kaufman,Dallas,DAL_
+RO,Rockwall,Dallas,DAL_
+EL,Ellis,Dallas,DAL_
+BX,Bexar,San Antonio,SAN_ANT_
+MC,McLennan,Waco,WACO_
+HAR,Harris,Houston,HOUS_
+EP,El Paso,TX Small County,TXSMALLCOUNTY_
+,Hidalgo,TX Small County,TXSMALLCOUNTY_
+,Galveston,TX Small County,TXSMALLCOUNTY_
+,Brazoria,TX Small County,TXSMALLCOUNTY_
+,Webb,TX Small County,TXSMALLCOUNTY_
+,Nueces,TX Small County,TXSMALLCOUNTY_
+,Hays,TX Small County,TXSMALLCOUNTY_
+,Ector,TX Small County,TXSMALLCOUNTY_
+,Midland,TX Small County,TXSMALLCOUNTY_
+,Parker,TX Small County,TXSMALLCOUNTY_
+,Grayson,TX Small County,TXSMALLCOUNTY_
+,Tom Green,TX Small County,TXSMALLCOUNTY_
+,Guadalupe,TX Small County,TXSMALLCOUNTY_
+,Liberty,TX Small County,TXSMALLCOUNTY_
+,Jefferson,TX Small County,TXSMALLCOUNTY_
+,Comal,TX Small County,TXSMALLCOUNTY_
+,Randall,TX Small County,TXSMALLCOUNTY_
+,Bastrop,TX Small County,TXSMALLCOUNTY_
+,HOOD,TX Small County,TXSMALLCOUNTY_
+,Hunt,TX Small County,TXSMALLCOUNTY_
+,Wichita,TX Small County,TXSMALLCOUNTY_
+,Gregg,TX Small County,TXSMALLCOUNTY_
+,Smith,TX Small County,TXSMALLCOUNTY_
+,Medina,TX Small County,TXSMALLCOUNTY_
+,Atascosa,TX Small County,TXSMALLCOUNTY_
+,ORANGE,TX Small County,TXSMALLCOUNTY_
+,Rusk,TX Small County,TXSMALLCOUNTY_
+,Chambers,TX Small County,TXSMALLCOUNTY_
+,Caldwell,TX Small County,TXSMALLCOUNTY_
+,Potter,TX Small County,TXSMALLCOUNTY_
+,Taylor,TX Small County,TXSMALLCOUNTY_
+,WISE,TX Small County,TXSMALLCOUNTY_
+,Maverick,TX Small County,TXSMALLCOUNTY_
+,Burnet,TX Small County,TXSMALLCOUNTY_
+,Henderson,TX Small County,TXSMALLCOUNTY_
+,San Patricio,TX Small County,TXSMALLCOUNTY_
+,Cherokee,TX Small County,TXSMALLCOUNTY_
+,Lamar,TX Small County,TXSMALLCOUNTY_
+,Tyler,TX Small County,TXSMALLCOUNTY_
+,Bowie,TX Small County,TXSMALLCOUNTY_
+,Austin,TX Small County,TXSMALLCOUNTY_
+,Shelby,TX Small County,TXSMALLCOUNTY_
+,Jim Wells,TX Small County,TXSMALLCOUNTY_
+,Brazos,TX Small County,TXSMALLCOUNTY_
+,Brewster,TX Small County,TXSMALLCOUNTY_
+,Hardin,TX Small County,TXSMALLCOUNTY_
+,Van Zandt,TX Small County,TXSMALLCOUNTY_
+,Fannin,TX Small County,TXSMALLCOUNTY_
+,Bandera,TX Small County,TXSMALLCOUNTY_
+,Wilson,TX Small County,TXSMALLCOUNTY_
+,Hill,TX Small County,TXSMALLCOUNTY_
+,Andrews,TX Small County,TXSMALLCOUNTY_
+,Calhoun,TX Small County,TXSMALLCOUNTY_
+,Hale,TX Small County,TXSMALLCOUNTY_
+,Hopkins,TX Small County,TXSMALLCOUNTY_
+,JIM HOGG,TX Small County,TXSMALLCOUNTY_
+,Bailey,TX Small County,TXSMALLCOUNTY_
+,Freestone,TX Small County,TXSMALLCOUNTY_
+,Donley,TX Small County,TXSMALLCOUNTY_
+,Kendall,TX Small County,TXSMALLCOUNTY_
+,Cameron,TX Small County,TXSMALLCOUNTY_
+,Kerr,TX Small County,TXSMALLCOUNTY_
+,Hamilton,TX Small County,TXSMALLCOUNTY_
+,La Salle,TX Small County,TXSMALLCOUNTY_
+,Harrison,TX Small County,TXSMALLCOUNTY_
+,Gaines,TX Small County,TXSMALLCOUNTY_
+,Starr,TX Small County,TXSMALLCOUNTY_
+,Lamb,TX Small County,TXSMALLCOUNTY_
+,Hockley,TX Small County,TXSMALLCOUNTY_
+,Lampasas,TX Small County,TXSMALLCOUNTY_
+,Falls,TX Small County,TXSMALLCOUNTY_
+,Lee,TX Small County,TXSMALLCOUNTY_
+,Winkler,TX Small County,TXSMALLCOUNTY_
+,Camp,TX Small County,TXSMALLCOUNTY_
+,Parmer,TX Small County,TXSMALLCOUNTY_
+,LIMESTONE,TX Small County,TXSMALLCOUNTY_
+,Presidio,TX Small County,TXSMALLCOUNTY_
+,LLANO,TX Small County,TXSMALLCOUNTY_
+,Robertson,TX Small County,TXSMALLCOUNTY_
+,Matagorda,TX Small County,TXSMALLCOUNTY_
+,Coleman,TX Small County,TXSMALLCOUNTY_
+,Gray,TX Small County,TXSMALLCOUNTY_
+,Dallam,TX Small County,TXSMALLCOUNTY_
+,Carson,TX Small County,TXSMALLCOUNTY_
+,Swisher,TX Small County,TXSMALLCOUNTY_
+,Cass,TX Small County,TXSMALLCOUNTY_
+,Titus,TX Small County,TXSMALLCOUNTY_
+,Mitchell,TX Small County,TXSMALLCOUNTY_
+,Callahan,TX Small County,TXSMALLCOUNTY_
+,Moore,TX Small County,TXSMALLCOUNTY_
+,Victoria,TX Small County,TXSMALLCOUNTY_
+,Grimes,TX Small County,TXSMALLCOUNTY_
+,Wharton,TX Small County,TXSMALLCOUNTY_
+,Archer,TX Small County,TXSMALLCOUNTY_
+,Irion,TX Small County,TXSMALLCOUNTY_
+,Palo Pinto,TX Small County,TXSMALLCOUNTY_
+,Floyd,TX Small County,TXSMALLCOUNTY_
+,Panola,TX Small County,TXSMALLCOUNTY_
+,Howard,TX Small County,TXSMALLCOUNTY_
+,Kimble,TX Small County,TXSMALLCOUNTY_
+,San Jacinto,TX Small County,TXSMALLCOUNTY_
+,Nuece,TX Small County,TXSMALLCOUNTY_
+,Walker,TX Small County,TXSMALLCOUNTY_
+,Newton,TX Small County,TXSMALLCOUNTY_
+,Angelina,TX Small County,TXSMALLCOUNTY_
+,Frio,TX Small County,TXSMALLCOUNTY_
+,Anderson,TX Small County,TXSMALLCOUNTY_
+,Aransas,TX Small County,TXSMALLCOUNTY_
+,Armstrong,TX Small County,TXSMALLCOUNTY_
+,Baylor,TX Small County,TXSMALLCOUNTY_
+,Bee,TX Small County,TXSMALLCOUNTY_
+,Blanco,TX Small County,TXSMALLCOUNTY_
+,Borden,TX Small County,TXSMALLCOUNTY_
+,Bosque,TX Small County,TXSMALLCOUNTY_
+,Briscoe,TX Small County,TXSMALLCOUNTY_
+,Brooks,TX Small County,TXSMALLCOUNTY_
+,Brown,TX Small County,TXSMALLCOUNTY_
+,Burleson,TX Small County,TXSMALLCOUNTY_
+,Castro,TX Small County,TXSMALLCOUNTY_
+,Childress,TX Small County,TXSMALLCOUNTY_
+,Clay,TX Small County,TXSMALLCOUNTY_
+,Cochran,TX Small County,TXSMALLCOUNTY_
+,Coke,TX Small County,TXSMALLCOUNTY_
+,Collingsworth,TX Small County,TXSMALLCOUNTY_
+,Colorado,TX Small County,TXSMALLCOUNTY_
+,Comanche,TX Small County,TXSMALLCOUNTY_
+,Concho,TX Small County,TXSMALLCOUNTY_
+,Cooke,TX Small County,TXSMALLCOUNTY_
+,Cottle,TX Small County,TXSMALLCOUNTY_
+,Crane,TX Small County,TXSMALLCOUNTY_
+,Crockett,TX Small County,TXSMALLCOUNTY_
+,Crosby,TX Small County,TXSMALLCOUNTY_
+,Culberson,TX Small County,TXSMALLCOUNTY_
+,Dawson,TX Small County,TXSMALLCOUNTY_
+,Deaf Smith,TX Small County,TXSMALLCOUNTY_
+,Delta,TX Small County,TXSMALLCOUNTY_
+,DeWitt,TX Small County,TXSMALLCOUNTY_
+,Dickens,TX Small County,TXSMALLCOUNTY_
+,Dimmit,TX Small County,TXSMALLCOUNTY_
+,Duval,TX Small County,TXSMALLCOUNTY_
+,Eastland,TX Small County,TXSMALLCOUNTY_
+,Edwards,TX Small County,TXSMALLCOUNTY_
+,Erath,TX Small County,TXSMALLCOUNTY_
+,Fayette,TX Small County,TXSMALLCOUNTY_
+,Fisher,TX Small County,TXSMALLCOUNTY_
+,Foard,TX Small County,TXSMALLCOUNTY_
+,Fort Bend,Do Not Add,TXSMALLCOUNTY_
+,Franklin,TX Small County,TXSMALLCOUNTY_
+,Garza,TX Small County,TXSMALLCOUNTY_
+,Gillespie,TX Small County,TXSMALLCOUNTY_
+,Glasscock,TX Small County,TXSMALLCOUNTY_
+,Goliad,TX Small County,TXSMALLCOUNTY_
+,Gonzales,TX Small County,TXSMALLCOUNTY_
+,Hall,TX Small County,TXSMALLCOUNTY_
+,Hansford,TX Small County,TXSMALLCOUNTY_
+,Hardeman,TX Small County,TXSMALLCOUNTY_
+,Hartley,TX Small County,TXSMALLCOUNTY_
+,Haskell,TX Small County,TXSMALLCOUNTY_
+,Hemphill,TX Small County,TXSMALLCOUNTY_
+,Houston,TX Small County,TXSMALLCOUNTY_
+,Hudspeth,TX Small County,TXSMALLCOUNTY_
+,Hutchinson,TX Small County,TXSMALLCOUNTY_
+,Jack,TX Small County,TXSMALLCOUNTY_
+,Jackson,TX Small County,TXSMALLCOUNTY_
+,Jasper,TX Small County,TXSMALLCOUNTY_
+,Jeff Davis,TX Small County,TXSMALLCOUNTY_
+,Jones,TX Small County,TXSMALLCOUNTY_
+,Karnes,TX Small County,TXSMALLCOUNTY_
+,Kenedy,TX Small County,TXSMALLCOUNTY_
+,Kent,TX Small County,TXSMALLCOUNTY_
+,King,TX Small County,TXSMALLCOUNTY_
+,Kinney,TX Small County,TXSMALLCOUNTY_
+,Kleberg,TX Small County,TXSMALLCOUNTY_
+,Knox,TX Small County,TXSMALLCOUNTY_
+,Lavaca,TX Small County,TXSMALLCOUNTY_
+,Leon,TX Small County,TXSMALLCOUNTY_
+,Lipscomb,TX Small County,TXSMALLCOUNTY_
+,Live Oak,TX Small County,TXSMALLCOUNTY_
+,Loving,TX Small County,TXSMALLCOUNTY_
+,Lynn,TX Small County,TXSMALLCOUNTY_
+,Madison,TX Small County,TXSMALLCOUNTY_
+,Marion,TX Small County,TXSMALLCOUNTY_
+,Martin,TX Small County,TXSMALLCOUNTY_
+,Mason,TX Small County,TXSMALLCOUNTY_
+,McCulloch,TX Small County,TXSMALLCOUNTY_
+,McMullen,TX Small County,TXSMALLCOUNTY_
+,Menard,TX Small County,TXSMALLCOUNTY_
+,Milam,TX Small County,TXSMALLCOUNTY_
+,Mills,TX Small County,TXSMALLCOUNTY_
+,Montague,TX Small County,TXSMALLCOUNTY_
+,Montgomery,Do Not Add,TXSMALLCOUNTY_
+,Morris,TX Small County,TXSMALLCOUNTY_
+,Motley,TX Small County,TXSMALLCOUNTY_
+,Nacogdoches,TX Small County,TXSMALLCOUNTY_
+,Navarro,TX Small County,TXSMALLCOUNTY_
+,Nolan,TX Small County,TXSMALLCOUNTY_
+,Ochiltree,TX Small County,TXSMALLCOUNTY_
+,Oldham,TX Small County,TXSMALLCOUNTY_
+,Pecos,TX Small County,TXSMALLCOUNTY_
+,Polk,TX Small County,TXSMALLCOUNTY_
+,Rains,TX Small County,TXSMALLCOUNTY_
+,Reagan,TX Small County,TXSMALLCOUNTY_
+,Real,TX Small County,TXSMALLCOUNTY_
+,Red River,TX Small County,TXSMALLCOUNTY_
+,Reeves,TX Small County,TXSMALLCOUNTY_
+,Refugio,TX Small County,TXSMALLCOUNTY_
+,Roberts,TX Small County,TXSMALLCOUNTY_
+,Runnels,TX Small County,TXSMALLCOUNTY_
+,Sabine,TX Small County,TXSMALLCOUNTY_
+,San Augustine,TX Small County,TXSMALLCOUNTY_
+,San Saba,TX Small County,TXSMALLCOUNTY_
+,Schleicher,TX Small County,TXSMALLCOUNTY_
+,Scurry,TX Small County,TXSMALLCOUNTY_
+,Shackelford,TX Small County,TXSMALLCOUNTY_
+,Sherman,TX Small County,TXSMALLCOUNTY_
+,Somervell,TX Small County,TXSMALLCOUNTY_
+,Stephens,TX Small County,TXSMALLCOUNTY_
+,Sterling,TX Small County,TXSMALLCOUNTY_
+,Stonewall,TX Small County,TXSMALLCOUNTY_
+,Sutton,TX Small County,TXSMALLCOUNTY_
+,Terrell,TX Small County,TXSMALLCOUNTY_
+,Terry,TX Small County,TXSMALLCOUNTY_
+,Throckmorton,TX Small County,TXSMALLCOUNTY_
+,Trinity,TX Small County,TXSMALLCOUNTY_
+,Upshur,TX Small County,TXSMALLCOUNTY_
+,Upton,TX Small County,TXSMALLCOUNTY_
+,Uvalde,TX Small County,TXSMALLCOUNTY_
+,Val Verde,TX Small County,TXSMALLCOUNTY_
+,Waller,TX Small County,TXSMALLCOUNTY_
+,Ward,TX Small County,TXSMALLCOUNTY_
+,Washington,TX Small County,TXSMALLCOUNTY_
+,Wheeler,TX Small County,TXSMALLCOUNTY_
+,Wilbarger,TX Small County,TXSMALLCOUNTY_
+,Willacy,TX Small County,TXSMALLCOUNTY_
+,Wood,TX Small County,TXSMALLCOUNTY_
+,Yoakum,TX Small County,TXSMALLCOUNTY_
+,Young,TX Small County,TXSMALLCOUNTY_
+,Zapata,TX Small County,TXSMALLCOUNTY_
+,Zavala,TX Small County,TXSMALLCOUNTY_
