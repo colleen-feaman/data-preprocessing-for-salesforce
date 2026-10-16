@@ -1,39 +1,4 @@
-﻿County,Market,Lead Manager
-Dade,West Georgia,David Riehle
-Walker,West Georgia,David Riehle
-Whitfield,West Georgia,David Riehle
-Murray,West Georgia,David Riehle
-Gordon,West Georgia,David Riehle
-Floyd,West Georgia,David Riehle
-Polk,West Georgia,David Riehle
-Haralson,West Georgia,David Riehle
-Carroll,West Georgia,David Riehle
-Douglas,West Georgia,David Riehle
-Fayette,West Georgia,David Riehle
-Clayton,West Georgia,David Riehle
-Spalding,West Georgia,David Riehle
-Pike,West Georgia,David Riehle
-Upson,West Georgia,David Riehle
-Monroe,West Georgia,David Riehle
-Houston,West Georgia,David Riehle
-Pulaski,West Georgia,David Riehle
-Crisp,West Georgia,David Riehle
-Dougherty,West Georgia,David Riehle
-Decatur,West Georgia,David Riehle
-Grady,West Georgia,David Riehle
-Thomas,West Georgia,David Riehle
-Colquitt,West Georgia,David Riehle
-Tift,West Georgia,David Riehle
-Cook,West Georgia,David Riehle
-Berrien,West Georgia,David Riehle
-Lowndes,West Georgia,David Riehle
-Catoosa,West Georgia,David Riehle
-Coffee,West Georgia,David Riehle
-Early,West Georgia,David Riehle
-Lanier,West Georgia,David Riehle
-Mitchell,West Georgia,David Riehle
-Peach,West Georgia,David Riehle
-Terrell,West Georgia,David Riehle
+﻿County,Market,Lead Manager Name
 Appling,East Georgia,Scott Autenreith
 Franklin,East Georgia,Scott Autenreith
 Hart,East Georgia,Scott Autenreith
@@ -83,6 +48,19 @@ Pickens,East Georgia,Scott Autenreith
 Putnam,East Georgia,Scott Autenreith
 Richmond,East Georgia,Scott Autenreith
 Roc,East Georgia,Scott Autenreith
+Pierce,East Georgia,Scott Autenreith
+Burke,East Georgia,Scott Autenreith
+Charlton,East Georgia,Scott Autenreith
+Toombs,East Georgia,Scott Autenreith
+Screven,East Georgia,Scott Autenreith
+Twiggs,East Georgia,Scott Autenreith
+Wilkes,East Georgia,Scott Autenreith
+Madison,East Georgia,Scott Autenreith
+Ben Hill,East Georgia,Scott Autenreith
+Oconee,East Georgia,Scott Autenreith
+Turner,East Georgia,Scott Autenreith
+Bacon,East Georgia,Scott Autenreith
+Tattnall,East Georgia,Scott Autenreith
 Bibb,Exclude,
 Bryan,Exclude,
 Chatham,Exclude,
@@ -101,8 +79,47 @@ Muscogee,Exclude,
 Paulding,Exclude,
 Talbot,Exclude,
 Troup,Exclude,
-Pierce,East Georgia,Scott Autenreith
-Burke,East Georgia,Scott Autenreith
-Charlton,East Georgia,Scott Autenreith
-Toombs,East Georgia,Scott Autenreith
-Chattooga,West Georgia,Scott Autenreith
+Dade,West Georgia,David Riehle
+Walker,West Georgia,David Riehle
+Whitfield,West Georgia,David Riehle
+Murray,West Georgia,David Riehle
+Gordon,West Georgia,David Riehle
+Floyd,West Georgia,David Riehle
+Polk,West Georgia,David Riehle
+Haralson,West Georgia,David Riehle
+Carroll,West Georgia,David Riehle
+Douglas,West Georgia,David Riehle
+Fayette,West Georgia,David Riehle
+Clayton,West Georgia,David Riehle
+Spalding,West Georgia,David Riehle
+Pike,West Georgia,David Riehle
+Upson,West Georgia,David Riehle
+Monroe,West Georgia,David Riehle
+Houston,West Georgia,David Riehle
+Pulaski,West Georgia,David Riehle
+Crisp,West Georgia,David Riehle
+Dougherty,West Georgia,David Riehle
+Decatur,West Georgia,David Riehle
+Grady,West Georgia,David Riehle
+Thomas,West Georgia,David Riehle
+Colquitt,West Georgia,David Riehle
+Tift,West Georgia,David Riehle
+Cook,West Georgia,David Riehle
+Berrien,West Georgia,David Riehle
+Lowndes,West Georgia,David Riehle
+Catoosa,West Georgia,David Riehle
+Coffee,West Georgia,David Riehle
+Early,West Georgia,David Riehle
+Lanier,West Georgia,David Riehle
+Mitchell,West Georgia,David Riehle
+Peach,West Georgia,David Riehle
+Terrell,West Georgia,David Riehle
+Chattooga,West Georgia,David Riehle
+Lee,West Georgia,David Riehle
+Crawford,West Georgia,David Riehle
+Fannin,West Georgia,David Riehle
+Dooly,West Georgia,David Riehle
+Worth,West Georgia,David Riehle
+Macon,West Georgia,David Riehle
+Meriwether,West Georgia,David Riehle
+Sumter,West Georgia,David Riehle
